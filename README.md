@@ -26,5 +26,8 @@ Teniendo finalmente el entorno web para el uso del modelo WRF.
 
 <img width="1797" height="943" alt="image" src="https://github.com/user-attachments/assets/0a535e35-93d8-4f67-b51e-bcd36eeafa87" />
 
-El cual esta compuesta pou una barra vertical a la derecha 
+El cual esta compuesta pou una barra vertical a la derecha para limpiar archivos temporales y finalizar un proceso.
+Y cuatro ventanas, siendo la primera para la selección del dominio espacial y seleccion de fecha de odleizacion y descarga de datos.
+
+La segunda ventana
 
