@@ -1,4 +1,4 @@
-# WRFmodel_over_Windows
+# WRF en Windows
 Es una Interfaz web generado con Streamlit en Python, para procesar el modelo atmosférico regional WRF compilado en Windows por CMAKE
 
 Ademas se ha generado 2 ejecutables para el uso en cualquier computador con sistema operativo Windows:
