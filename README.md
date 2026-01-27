@@ -19,5 +19,12 @@ Luego dentro de tu carpeta de trabajo ejecutar Descarga_WRF.exe para descargar e
 Y listo ahora ejecutamos el script run.exe y a empezar (👍 ✅)
 
 Entonces se abrira una pagina web o un terminal con la ruta de la pagina web: http://172.25.201.8:8501
+
 <img width="632" height="112" alt="image" src="https://github.com/user-attachments/assets/a533a32c-8b48-4b5f-8f33-6733a5405932" />
+
+Teniendo finalmente el entorno web para el uso del modelo WRF.
+
+<img width="1797" height="943" alt="image" src="https://github.com/user-attachments/assets/0a535e35-93d8-4f67-b51e-bcd36eeafa87" />
+
+El cual esta compuesta pou una barra vertical a la derecha 
 
