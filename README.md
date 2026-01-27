@@ -11,3 +11,9 @@ Ademas se ha generado 2 ejecutables para el uso en cualquier computador con sist
             - Descarga de datos del modelo GFS a 0.25° y preprocesamiento.
             - Preparación de las condiciones iniciales y de contorno y la modelización.
             - Generación de graficas para evaluación
+
+# Uso del App WRFmodel_over_Windows
+Lo primero es descargar el archivo comprimido WRF_Windows.zip, el cual contiene los 2 ejecutables y un archivo namelist.wps 
+
+Luego dentro de tu carpeta de trabajo ejecutar Descarga_WRF.exe para descargar el modelo WRF y datos geograficos.
+Y listo ahora ejecutamos el script run.exe y a empezar (👍 ✅)
