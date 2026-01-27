@@ -17,3 +17,7 @@ Lo primero es descargar el archivo comprimido WRF_Windows.zip, el cual contiene 
 
 Luego dentro de tu carpeta de trabajo ejecutar Descarga_WRF.exe para descargar el modelo WRF y datos geograficos.
 Y listo ahora ejecutamos el script run.exe y a empezar (👍 ✅)
+
+Entonces se abrira una pagina web o un terminal con la ruta de la pagina web: http://172.25.201.8:8501
+<img width="632" height="112" alt="image" src="https://github.com/user-attachments/assets/a533a32c-8b48-4b5f-8f33-6733a5405932" />
+
