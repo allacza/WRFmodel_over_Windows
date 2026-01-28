@@ -31,3 +31,15 @@ Y cuatro ventanas, siendo la primera para la selección del dominio espacial y s
 
 La segunda ventana
 
+<img width="1351" height="780" alt="image" src="https://github.com/user-attachments/assets/da75b860-050b-4632-bc8b-48400a9e8d84" />
+
+La tercera ventana
+
+<img width="1355" height="926" alt="image" src="https://github.com/user-attachments/assets/bbc40092-f6c4-4724-8cab-82c132e9b96c" />
+
+<img width="1362" height="898" alt="image" src="https://github.com/user-attachments/assets/28f6b47e-216a-4c4c-8bbc-86effe8fdc95" />
+
+
+
+
+
