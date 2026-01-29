@@ -41,6 +41,7 @@ La tercera ventana
 
 # Monitoreo del proceso
 Adicionalmente puedes monitorear si se utiliza la misma cantida de procesadores con el comando en la terminal de Windows:
+
 Get-Process | Where-Object { $_.ProcessName -match "wrf" }
 
 
