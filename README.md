@@ -39,7 +39,8 @@ La tercera ventana
 
 <img width="1362" height="898" alt="image" src="https://github.com/user-attachments/assets/28f6b47e-216a-4c4c-8bbc-86effe8fdc95" />
 
-
-
+# Monitoreo del proceso
+Adicionalmente puedes monitorear si se utiliza la misma cantida de procesadores con el comando en la terminal de Windows:
+Get-Process | Where-Object { $_.ProcessName -match "wrf" }
 
 
