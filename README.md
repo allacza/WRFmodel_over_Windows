@@ -20,9 +20,7 @@ Y listo ahora ejecutamos el script run.exe y a empezar (👍 ✅)
 
 Entonces se abrira una pagina web o un terminal con la ruta de la pagina web: http://172.25.201.8:8501
 
-<img width="1378" height="940" alt="image" src="https://github.com/user-attachments/assets/3cce3219-284e-4114-9194-d9709883c990" />
-
-<img width="632" height="112" alt="image" src="https://github.com/user-attachments/assets/a533a32c-8b48-4b5f-8f33-6733a5405932" />
+<img width="1800" height="926" alt="image" src="https://github.com/user-attachments/assets/f175a6bf-0799-4773-b8a1-b150a2982ec5" />
 
 Teniendo finalmente el entorno web para el uso del modelo WRF.
 
