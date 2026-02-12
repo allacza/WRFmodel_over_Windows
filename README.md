@@ -20,11 +20,9 @@ Y listo ahora ejecutamos el script run.exe y a empezar (👍 ✅)
 
 Entonces se abrira una pagina web o un terminal con la ruta de la pagina web: http://172.25.201.8:8501
 
-<img width="1800" height="926" alt="image" src="https://github.com/user-attachments/assets/f175a6bf-0799-4773-b8a1-b150a2982ec5" />
-
 Teniendo finalmente el entorno web para el uso del modelo WRF.
 
-<img width="1797" height="943" alt="image" src="https://github.com/user-attachments/assets/0a535e35-93d8-4f67-b51e-bcd36eeafa87" />
+<img width="1800" height="926" alt="image" src="https://github.com/user-attachments/assets/f175a6bf-0799-4773-b8a1-b150a2982ec5" />
 
 El cual esta compuesta pou una barra vertical a la derecha para limpiar archivos temporales y finalizar un proceso.
 Y cuatro ventanas, siendo la primera para la selección del dominio espacial y seleccion de fecha de odleizacion y descarga de datos.
@@ -38,6 +36,12 @@ La tercera ventana
 <img width="1355" height="926" alt="image" src="https://github.com/user-attachments/assets/bbc40092-f6c4-4724-8cab-82c132e9b96c" />
 
 <img width="1362" height="898" alt="image" src="https://github.com/user-attachments/assets/28f6b47e-216a-4c4c-8bbc-86effe8fdc95" />
+
+La ultima ventana presenta graficas de revisión de variables modelizadas
+
+<img width="1373" height="908" alt="image" src="https://github.com/user-attachments/assets/7aecd85e-252a-4449-b008-ee15cd36af03" />
+
+
 
 # Monitoreo del proceso
 Adicionalmente puedes monitorear si se utiliza la misma cantida de procesadores con el comando en la terminal de Windows:
